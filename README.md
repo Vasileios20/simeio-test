@@ -3,7 +3,7 @@
 || Goal |
 |--|--|
 | Client| A simple and easy to navigate website |
-|| To encourage people learn about special treatments |
+|| To encourage people learn about learning disabilities |
 || To help people identify signs of learning diasabilities |
 | First Time User | I want to learn what services the special treatments center offer | 
 || I want to learn about the therapists experience |
