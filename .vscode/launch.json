@@ -3,12 +3,18 @@
   // Hover to view descriptions of existing attributes.
   "version": "0.2.0",
   "configurations": [
-      {
-            "name": "Python: Current File (Integrated Terminal)",
-            "type": "python",
-            "request": "launch",
-            "program": "${file}",
-            "console": "internalConsole"
-        }
+    {
+      "name": "Python: Current File (Integrated Terminal)",
+      "type": "python",
+      "request": "launch",
+      "program": "${file}",
+      "console": "internalConsole"
+    },
+    {
+      "type": "chrome",
+      "name": "http://127.0.0.1:3000/index.html",
+      "request": "launch",
+      "url": "http://127.0.0.1:3000/index.html"
+    }
   ]
 }

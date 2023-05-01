@@ -9,7 +9,7 @@
 body {
     font-family: Manrope, sans-serif;
     font-weight: 300;
-    /* color: #4dc1c0; */
+    color: #3f3f3f;
 }
 
 .active {
@@ -67,7 +67,7 @@ header {
 
 .right-about {
 
-    color: #4dc1c0;
+    
     flex: 2;
     margin: auto 30px;
     font-size: 150%;
